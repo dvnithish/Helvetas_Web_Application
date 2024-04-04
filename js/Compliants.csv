@@ -1,0 +1,368 @@
+Id,Topic,Question
+1,Personnel Regulations,"Does the Programme Office have national personnel regulations, including a salary scale, adapted and in conformity with local legislation and HO guidelines?"
+2,Personnel Regulations,"When new staff is employed, is it ensured that the persons most suitable are recruited transparently and efficiently?"
+3,Personnel Regulations,"Is the policy of equal chances assured (Gender, ethnic groups, language) in the recruitment process?"
+4,Personnel Regulations,Does the Programme Office ensure that their employees discharge their duties according to their employment contracts?
+5,Personnel Regulations,Does the Programme Office ensure that their employees respect the current laws and obligations with regard to their employment?
+6,Personnel Regulations,Are the Terms of Reference or job descriptions available for all positions in the Programme Office and the projects?
+7,Personnel Regulations,Is the staff performance checked regularly with an annual appraisal and are the necessary development measures agreed upon?
+8,Personnel Regulations,Are the necessary measures available for developing staff competences?
+9,Personnel Regulations,Are the financial aspects of the employment contracts administered in a regular and effective manner?
+10,Personnel Regulations,Is the payroll prepared following appropriate state regulations and the National Personnel Regulations of the Programme Office?
+11,Personnel Regulations,Are the payroll records reconciled every month with the Salary Register?
+12,Personnel Regulations,"Does the CD / PM monitor the time registration of local staff on a monthly basis? (for those registering in Sangama - based on Sangama Time reports; and for those maintaining in Excel (or other tools), relevant reports)"
+13,Personnel Regulations,Does the Programme Office have a timely process for filling vacant positions or in case of absences of the local staff to prevent an interruption of program services or disruption to the organization’s operations?
+14,Personnel Regulations,Are the relevant rules and procedures adhered to in case of termination of employment contracts?
+15,Personnel Regulations,"If by National Legislation required, is a Gratuity Fund (terminal benefit) system established according to the instructions in the FM HO and managed by the Programme Office based on national regulations?"
+16,Internal Controls,"Are the job descriptions of all staff members approved, signed and stored in the Human resources records?"
+17,Internal Controls,Do invoice processing procedures provide for checking relevant docuements and the accuracy of calculations?
+18,Internal Controls,"Do you implement double signatures bank payments instructions, cheques, and e-banking?"
+19,Internal Controls,Do you implement controls over the cash management as per internal rules?
+20,Internal Controls,Do you ensure that no one has unauthorised access to the passwords tools of the e-banking connections?
+21,Internal Controls,"Is the segregation of duties document for staff responsibilities established and applied? (for e.g., between cashier and accountant)"
+22,Internal Controls,Does the Project Office send written confirmation for receipt of funds from Programme office when funds are credited in the project bank account?
+23,Internal Controls,"Is there a system of adequate safeguards to protect assets from fraud, waste or mis-use?"
+24,Internal Controls,Are the sale and disposal of fixed assets implemented as per policy laid down in the National Finance Manual?
+25,Internal Controls,Are regular checks made on the use of vehicles and their mileage?
+26,Internal Controls,Are the exceptional private use of office vehicles monitored and costs recovered from the concerned staff?
+27,Internal Controls,Are Banana accounting transactions cross checked with the physical vouchers at regular intervals?
+28,Internal Controls,Are controls performed over the correctness of the voucher and existance of adequate supporting documents?
+29,Internal Controls,Are the controls performed on the correctnes of the calculation of travel advance and expenses claims and approved by the relevant function?
+30,Internal Controls,Are all advances and their settlements monitored systematically (using Advance monitoring sheet)?
+31,Internal Controls,Are the fund requests sent to Programme Office checked and approved by the authorised signatories?
+32,Internal Controls,Are the fund requests verified and signed by the authorised person to confirm their correctness/limits to the annually approved budget?
+33,Internal Controls,Are the monthly fund transfers to projects checked and approved by Authorised signatories before issue of instructions to the bank for transfer?
+34,Internal Controls,"Are the monthly Banana accounting file, financial reports and annexures for submission to Programme Office verified and approved by authorised persons?"
+35,Internal Controls,"Are the monthly bank reconciliation statements checked with accounting records, bank statements and approved by the authorised signatory?"
+36,Internal Controls,Are the verifications of the physical assets performed against the asset register on an annual basis (minimum)?
+37,Internal Controls,Are the cash payments made within the limit specified in the national finance manual?
+38,Internal Controls,Is physical cash stored in a safe under lock and key?
+39,Internal Controls,"Are ""receipts"" issued against receipt of cash?"
+40,Internal Controls,"Are the cheque books reviewed, controlled, and stored in a safe place?"
+41,Internal Controls,"Are the copies of signed cheques issued to vendors/service providers/others, stored as part of the voucher documentation?"
+42,Internal Controls,"Are the monthly financial reports produced from Banana accounting file, checked and signed by the Authorised signatories?"
+43,Internal Controls,Are the monthly fund requests sent to the Head Office reviewed and approved by the authorised signatories?
+44,Internal Controls,Do you obtain the list of authorised signatories to operate bank accounts from the bank and present to the auditors annually?
+45,Internal Controls,"Is the list of authorised signatories to operate bank accounts reviewed, checked and updated at regular intervals?"
+46,Internal Controls,Does the Programme Office ensure adequate and continuous insurance coverage for all fixed assets across all project units?
+47,Internal Controls,Does the Programme Office reconcile the fund transfers made to Project Offices by comparing between PO and Project accounting data?
+48,Internal Controls,"Does the Programme Office send written confirmation for receipt of funds to Head Office (with details of funds received, exchange rate etc,.) when funds are credited in the Programme Office bank account?"
+49,Internal Controls,Does the Programme Office notify Head Office in case of changes to the Cash flow plan?
+50,Internal Controls,Does the Programme Office keep the cash flow planning up to date?
+51,Internal Controls,"Does the Programme Office prepare monthly signed financial reporting to Head Office including the Balance Sheet, Statement of Income and Expenses on a timely basis?"
+52,Internal Controls,Is the “Delegated Authority Document” reviewed/updated annually to ensure its relevance/validity?
+53,Internal Controls,Does the Programme Office have the signature policy and delegated authority documents and are they applied correctly?
+54,Internal Controls,Are the internal controls reviewed regularly by internal or annual external audits?
+55,Internal Controls,Has the Programme Office established and documented an adequate set of internal controls?
+56,Code of Conduct,Does the Programme Office follow the guidelines to introduce appropriate measures to handle cases of misappropriation?
+57,Code of Conduct,Does the Programme Office make sure that conflicts of interest are discussed and avoided?
+58,Code of Conduct,Does the Programme Office make sure that people affected from a conflict of interest are not in the decision making committee?
+59,Code of Conduct,"Are there regular trainings, communication efforts and exchanges on anti- corruption themes to sensitize all staff members in the country on this topic?"
+60,Code of Conduct,"Is there a broad understanding of the necessary safety precautions to protect whistleblowers (confidentiality, no retaliation, etc.)?"
+61,Code of Conduct,Has the Programme Office introduced the necessary safety precautions to protect whistleblowers?
+62,Code of Conduct,Did all staff members sign a written declaration to adhere to the organisation's code of conduct?
+63,Code of Conduct,"Are there established processes, which ensure that the Protection from Sexual Exploitation, Abuse and Sexual Harassment (PSEAH) of third parties are guaranteed?"
+64,Code of Conduct,"Are there regular trainings and exchanges on safeguarding topics (i.e. bullying, abuse of power, sexual harassment) to sensitize all staff members in the country on this topic?"
+65,Code of Conduct,"When evaluating a future partner, is a thorough partner risk assessment conducted (value check, screening against terrorism financing and sanctions, reputation check)?"
+66,Code of Conduct,"In case of the receipt or donation of a gift from/to an individual or a third party, is the Programme Office aware of possible risks?"
+67,Finance - General,"Does the Program Office and Project Office follow the required measures for VAT reimbursement within the prescribed timeline for VAT exempted projects (EU, World Bank, SDC, others) as applicable?"
+68,Finance - General,Are the storage and archiving of finance documents being carried out and maintained for the stipulated duration? (minimum of 10 years storage necessary)
+69,Finance - General,"Does the Programme Office comply with the Signature Regulations issued by Head office (refer Pamoja-OHB) (e.g., signing of contracts with donors)"
+70,Finance - General,"Does the Programme Office provide training on relevant finance management topics to key staff members at regular intervals? (Finance Manual, Finance Monitoring Manual, Internal Controls and other procedures)"
+71,Finance - General,Do all units in the country act in compliance with tax regulations?
+72,Finance - General,Does the Programme Office comply with the statutory reporting requirements in a timely manner?
+73,Finance - General,Does the Programme Office have an organizational structure including the setup of projects?
+74,Finance - General,Are conflicts adequately treated in the National Finance Manual?
+75,Finance - General,Does the Programme Office check if there are any conflicts between the National Finance Manual and local laws/regulations?
+76,Finance - General,Is the Finance Manual updated periodically to integrate important changes?
+77,Contrôles Internes,"Les descriptions de poste de tous les membres du personnel sont-elles approuvées, signées et conservées dans les dossiers des ressourcces humaines?"
+78,Contrôles Internes,Le Bureau du Programme a-t-il établi et documenté un ensemble adéquat de contrôles internes?
+79,Contrôles Internes,Les contrôles internes sont-ils revus régulièrement par des audits internes ou des audits externes annuels?
+80,Contrôles Internes,Les procédures de traitement des factures permettent-elles de vérifier les documents pertinents et l'exactitude des calculs?
+81,Contrôles Internes,Le Bureau du Programme dispose-t-il de la politique de signature et des documents de délégation de pouvoirs et sont-ils appliqués correctement?
+82,Contrôles Internes,Le document de délégation de pouvoirs est-il revu / mis à jour annuellement pour assurer sa pertinence / validité?
+83,Contrôles Internes,"Mettez-vous en œuvre des instructions de paiement bancaire à double signature, des chèques et des services bancaires en ligne?"
+84,Contrôles Internes,Mettez-vous en place des contrôles sur la gestion de la trésorerie conformément aux règles internes?
+85,Contrôles Internes,Assurez-vous que personne n'a un accès non autorisé aux outils de mots de passe des connexions bancaires en ligne?
+86,Contrôles Internes,"Le document de séparation des tâches pour les responsabilités du personnel est-il établi et appliqué? (par exemple, entre le caissier et le comptable)"
+87,Contrôles Internes,"Le Bureau du Programme prépare-t-il des rapports financiers mensuels signés au Siège Social, y compris le bilan, l'état des revenus et des dépenses en temps opportun?"
+88,Contrôles Internes,Le Bureau du Programme tient-il à jour la planification des flux de trésorerie?
+89,Contrôles Internes,Le Bureau du Programme informe-t-il le Siège Social en cas de modification du plan de trésorerie?
+90,Contrôles Internes,"Le Bureau du Programme envoie-t-il une confirmation écrite de la réception des fonds au Siège Social (avec les détails des fonds reçus, le taux de change, etc.) lorsque les fonds sont crédités sur le compte bancaire du Bureau du Programme?"
+91,Contrôles Internes,Le Bureau du Projet envoie-t-il une confirmation écrite de la réception des fonds du Bureau du Programme lorsque les fonds sont crédités sur le compte bancaire du Bureau du Projet?
+92,Contrôles Internes,Le Bureau du Programme rapproche-t-il les transferts de fonds effectués vers les Bureaux du Projet en comparant les données comptables du Bureau du Programme et celles du Projet?
+93,Contrôles Internes,Le Bureau du Programme assure-t-il une couverture d'assurance adéquate et continue pour toutes les immobilisations dans toutes les unités du Projet?
+94,Contrôles Internes,"Existe-t-il un système de garanties adéquates pour protéger les actifs contre la fraude, le gaspillage ou l'utilisation abusive?"
+95,Contrôles Internes,La vente et la cession des immobilisations sont-elles mises en œuvre conformément à la politique définie dans le manuel financier national?
+96,Contrôles Internes,Des contrôles réguliers sont-ils effectués sur l'utilisation des véhicules et leur kilométrage?
+97,Contrôles Internes,L'utilisation exceptionnelle à des fins privées des véhicules du bureau est-elle surveillée ainsi que les coûts recouvrés auprès du personnel concerné?
+98,Contrôles Internes,Les transactions comptables dans le logiciel Banana sont-elles vérifiées par recoupement avec les pièces justificatives physiques à intervalles réguliers?
+99,Contrôles Internes,Des contrôles sont-ils effectués sur l'exactitude des pièces justificatives et des documents probants qui les composent?
+100,Contrôles Internes,Les contrôles sont-ils effectués sur l'exactitude du calcul des avances de voyage et des notes de frais et sont-ils approuvés par la focntion concernée?
+101,Contrôles Internes,Toutes les avances et leurs réglements sont-ils contrôlés systématiquement (en utilisant une fiche de suivi des avances)?
+102,Contrôles Internes,Les demandes de fonds envoyées au Bureau du Programme sont-elles vérifiées et approuvées par les signataires autorisées?
+103,Contrôles Internes,Les demandes de fonds sont-elles vérifiées et signées par la personne autorisée pour confirmer leur exactitude / limite par rapport au budget annuel approuvé?
+104,Contrôles Internes,Les demandes de fonds mensuelles envoyées au Siège Social sont-elles examinées et approuvées par les signataires autorisés?
+105,Contrôles Internes,Les virements de fonds mensuels aux projets sont-ils vérifiés et approuvés par des signataires autorisés avant l'émission d'instructions à la banque pour le virement?
+106,Contrôles Internes,"Le fichier comptable mensuel Banana, les rapports financiers et les annexes à soumettre au Bureau du Programme sont-ils vérifiés et approuvés par des personnes autorisées?"
+107,Contrôles Internes,"Les états de rapprochement bancaire mensuels sont-ils vérifiés avec les documents comptables, les relevés bancaires et approuvés par le signataire autorisé?"
+108,Contrôles Internes,Les vérifications des actifs physiques sont-elles effectuées par rapport au registre des actifs sur une base annuelle (minimum)?
+109,Contrôles Internes,Le paiement en espèces est-il effectué dans la limite spécifiée dans le manuel financier national?
+110,Contrôles Internes,L'argent liquide est-il stocké dans un coffre-fort sous clé?
+111,Contrôles Internes,Des reçus sont-ils délivrés contre réception d'espèces?
+112,Contrôles Internes,"La liste des signataires autorisés à gérer des comptes bancaires est-elle examinée, vérifiée et mise à jour à intervalles réguliers?"
+113,Contrôles Internes,Obtenez-vous la liste des signataires autorisés à gérer des comptes bancaires auprès de la banque et les présentez-vous aux auditeurs chaque année?
+114,Contrôles Internes,"Les carnets de chèque sont-ils examinés, contrôles et stockés dans un endroit sûr?"
+115,Contrôles Internes,Les copies des chèques signés émis aux vendeurs / prestataires de service / autres sont-elles conservées en tant que documents justificatifs?
+116,Contrôles Internes,Les rapports financiers mensuels produits à partir du fichier comptable Banana sont-ils vérifiés et signés par les signataires autorisés?
+117,Budgetary Control,Does the PM conduct the budget monitoring on a monthly basis?
+118,Budgetary Control,Does the Banana accounting file contain the latest approved version of project budgets?
+119,Budgetary Control,Do you carry out variances analysis between budget and actual and take corrective measures in a time bound manner?
+120,Budgetary Control,Does the CD review and analyse the Contribution Margin Report on a Semester basis?
+121,Budgetary Control,Does the CD monitor the controls performed by the PM over the budget monitoring and corrective measures initiated?
+122,Budgetary Control,Does the CD monitor the working hours for the Country portfolio/projects?
+123,Budgetary Control,"Does the Programme Office provide the relevant data, reports/information to project staff to aid them monitor the financial progress of the respective projects?"
+124,Reglamento de Personal,"¿Cuenta la Oficina del Programa con reglamentos nacionales de personal, incluida una escala salarial, adaptados y conformes con la legislación local y las directrices de la Sede?"
+125,Reglamento de Personal,"Cuando se contrata personal nuevo, ¿se asegura que las personas más idóneas sean contratadas de manera transparente y eficiente?"
+126,Reglamento de Personal,"¿Se asegura la política de igualdad de oportunidades (género, etnia, idioma) en el proceso de contratación?"
+127,Reglamento de Personal, ¿La Oficina de Programa País se asegura  de que sus empleados cumplan con sus deberes de acuerdo con sus contratos de trabajo?
+128,Reglamento de Personal,¿La Oficina de Programa País se asegura de que sus empleados respeten las leyes y obligaciones vigentes con respecto a su empleo?
+129,Reglamento de Personal,¿Están disponibles los términos de referencia o las descripciones de puestos para todos los puestos en la Oficina de Programa  País y  en los proyectos?
+130,Reglamento de Personal,¿Se verifica regularmente el desempeño del personal con una evaluación anual y se acuerdan las medidas de desarrollo necesarias?
+131,Reglamento de Personal,¿Se dispone de las medidas necesarias para desarrollar las competencias del personal?
+132,Reglamento de Personal,¿Se administran de manera regular y efectiva los aspectos financieros de los contratos de trabajo?
+133,Reglamento de Personal,¿Se prepara la planilla de sueldos  (nómina) siguiendo los reglamentos estatales apropiados y el Reglamento Nacional de Personal de la Oficina de Programa País?
+134,Reglamento de Personal,¿Se concilian mensualmente los registros de nómina con el Registro de Salarios?
+135,Reglamento de Personal,"¿El Director de Programa País y el Director/Coordinador de proyecto supervisan mensualmente el registro de horas del personal local? (Para aquellos que se registran en Sangama, sobre la base de los informes de Sangama Time; y para aquellos que mantienen en Excel (u otras herramientas), informes relevantes)"
+136,Reglamento de Personal,¿La Oficina de Programa País cuenta con  un proceso oportuno para llenar los puestos vacantes o en caso de ausencias del personal local con el fin de evitar la interrupción de los servicios del programa o la interrupción de las operaciones de la organización?
+137,Reglamento de Personal,¿Se cumplen las normas y procedimientos pertinentes en caso de rescisión de los contratos de trabajo?
+138,Reglamento de Personal,"Si la Legislación Nacional lo requiere, ¿se establece un sistema de Fondo de Gratuidad (beneficio terminal/indemnización) de acuerdo con las instrucciones del Manual de Finanzas  de la Sedey administrado por la Oficina dePrograma País con base en las regulaciones nacionales?"
+139,Controles internos,¿La Oficina de Programa País ha establecido y documentado un conjunto adecuado de controles internos?
+140,Controles internos,¿Los controles internos son revisados periódicamente por auditorías internas o externas anuales?
+141,Controles internos,¿La Oficina de Programa País cuenta con los documentos de política de firmas y autoridad delegada y se aplican correctamente?
+142,Controles internos,¿ El “Documento de Autoridad Delegada” es revisado/actualizado anualmente para asegurar su relevancia/validez?
+143,Controles internos,"¿La Oficina de Programa  País prepara informes financieros mensuales firmados para la Sede, incluyendo el Balance General, el Estado de Ingresos y Gastos de manera oportuna?"
+144,Controles internos,¿ La Oficina de Programa País mantiene actualizada la planificación del flujo de caja?
+145,Controles internos,¿ La Oficina de Programa País notifica a la Sede en caso de cambios en la planificación del  flujo de caja?
+146,Controles internos," ¿ La Oficina de Programa País envía una confirmación por escrito de la recepción de los fondos a la Sedel (con detalles de los fondos recibidos, tipo de cambio, etc.) cuando los fondos se acreditan en la cuenta bancaria de la Oficina de Programa?"
+147,Controles internos,¿Concilia la Oficina dePrograma País as transferencias de fondos realizadas a las proyectos comparando los datos contables del proyecto?
+148,Controles internos,¿La Oficina de Programa País garantiza una cobertura de seguro adecuada y continua para todos los activos fijos en la Oficina de Programa País y en todos los proyectos?
+149,Controles internos,¿Las solicitudes de fondos enviadas a la Sede son revisadas y aprobadas por los funcionarios autorizados?
+150,Controles internos,"¿Se revisa, verifica y actualiza periódicamente la lista de funcionarios con firmas  autorizadas para operar cuentas bancarias?"
+151,Controles internos,¿Obtiene usted la lista de funcionarios con firma autorizada para operar cuentas bancarias del banco y la presenta a los auditores anualmente?
+152,Controles internos,"¿Están aprobadas, firmadas y almacenadas las Descripciones de Funciones/Puestos de  todos los miembros del personal  en los archivos de Recursos Humanos?"
+153,Controles internos,¿ Los procedimientos de procesamiento de facturas prevén  la verificación de documentos relevantes y la precisión de los cálculos?
+154,Controles internos,"¿Implementa usted las instrucciones de pagos bancarios de doble firma, cheques y banca electrónica?"
+155,Controles internos,¿Implementa usted controles sobre la gestión de efectivo según las normas internas?
+156,Controles internos, ¿Se asegura de que nadie tenga acceso no autorizado a las herramientas de contraseñas de las conexiones de banca electrónica?
+157,Controles internos,"¿Está establecido y aplicado el documento de segregación de funciones para las responsabilidades del personal? (Por ejemplo, entre cajero y contador)"
+158,Controles internos, ¿El proyecto envía una confirmación por escrito de la recepción de fondos cuando los fondos se acreditan en la cuenta bancaria del proyecto?
+159,Controles internos,"¿Existe un sistema de salvaguardias adecuadas para proteger los activos contra el fraude, el despilfarro o el uso indebido?"
+160,Controles internos,¿Se implementan la venta y disposición de activos fijos según la política establecida en el Manual Nacional de Finanzas?
+161,Controles internos, ¿Se realizan controles regulares sobre el uso de los vehículos y su kilometraje?
+162,Controles internos, ¿Se supervisa el uso privado excepcional de los vehículos de oficina y se recuperan los costos del personal en cuestión?
+163,Controles internos,¿Se comparan  las transacciones contables de Banana con los comprobantes físicos a intervalos regulares?
+164,Controles internos,¿Se realizan controles sobre la exactitud del comprobante y la existencia de documentos de respaldo adecuados?
+165,Controles internos,¿Los controles se realizan sobre la corrección del cálculo de los anticipos de viaje y las solicitudes de reembolso  de gastos y se aprueban por  el superior inmediato?
+166,Controles internos,¿Se controlan sistemáticamente todos los anticipos y sus liquidaciones (usando la hoja de control de anticipos)?
+167,Controles internos,¿Las solicitudes de fondos enviadas a la Oficina de Programa País son verificadas y aprobadas por los funcionarios  autorizados?
+168,Controles internos,¿Las solicitudes de fondos son verificadas y firmadas por la persona autorizada para confirmar su corrección en cuanto a los límites del presupuesto aprobado anualmente?
+169,Controles internos,¿Las transferencias de fondos mensuales a los proyectos son verificadas y aprobadas por los funcionarios autorizados antes de emitir las instrucciones al banco para la transferencia?
+170,Controles internos,"¿Verifican y aprueban las personas autorizadas el archivo contable mensual Banana, los informes financieros y los anexos para su presentación a la Oficina dePrograma País?"
+171,Controles internos,"¿Se verifican los estados de conciliación bancaria mensuales con los registros contables, los extractos bancarios y son aprobados, a través de su firma,  por el funcionario autorizado?"
+172,Controles internos,¿Se realizan las verificaciones de los activos físicos contra el registro de activos anualmente (como mínimo)?
+173,Controles internos,¿Los pagos en efectivo se realizan dentro del límite especificado en el manual de finanzas nacionales?
+174,Controles internos, ¿el efectivo físico se almacena en una caja fuerte bajo llave?
+175,Controles internos,"¿Se emiten ""recibos"" cuando se recibe dinero en efectivo?"
+176,Controles internos,"¿Los talonarios de cheques son revisados, controlados y guardados en un lugar seguro ?"
+177,Controles internos,¿Las copias de los cheques firmados emitidos a proveedores/proveedores de servicios/otros se guardan como parte de la documentación del comprobante?
+178,Controles internos,¿Los informes financieros mensuales emitidos a partir del sistema contable Banana son verificados y firmados por los funcionarios autorizados?
+179,Audit,La société d'audit sélectionnée pour l'audit annuel du groupe est-elle approuvée par notre principal donateur DDC sur une base annuelle avant la signature du contrat d'audit?
+180,Audit,L'audit national annuel est-il effectué sur la base des termes de référence approuvés de l'Audit du Groupe et conformément aux instructions émises par le Siège Social?
+181,Audit,Le Bureau du Programme suit-il et met-il en œuvre systématiquement les améliorations requises sur la base des recommandations d'audit?
+182,Audit,Does the Programme Office systematically track and implement required improvements based on audit recommendations?
+183,Audit,Is the annual national audit performed based on approved Group Audit ToR and as per instructions issued by the Head office?
+184,Audit,Is the selected audit company for Annual Group Audit approved by our main donor SDC on a yearly basis prior to signature of the audit contract?
+185,Règlement du Personnel,"Le Bureau du Programme a-t-il un règlement national du personnel, y compris une échelle de salaire, adapté et conforme à la législation locale et aux directives du Siège?"
+186,Règlement du Personnel,"Lors de l'embauche de nouveau personnel, veille-t-on à ce que les personnes les plus appropriées soient recrutées de manière transparente et efficace?"
+187,Règlement du Personnel,"La politique d'égalité des chances est-elle assurée (genre, ethnie, langue) dans le processus de recrutement?"
+188,Règlement du Personnel,Le Bureau du Programme s'assure-t-il que ses employés s'aquittent de leurs fonctions conformément à leurs contrats de travail?
+189,Règlement du Personnel,Le Bureau du Programme s'assure-t-il que ses employés respectent les lois et obligations en vigueur concernant leur emploi?
+190,Règlement du Personnel,Les termes de référence ou les descriptions de pote sont-ils disponibles pour tous les postes du Bureau du Programme et des Projets?
+191,Règlement du Personnel,Les performances du personnel sont-elles contrôlées régulièrement avec une évaluation annuelle et les mesures de développement nécessaires sont-elles convenues?
+192,Règlement du Personnel,Les mesures nécessaires sont-elles disponibles pour développer les compétences du personnel?
+193,Règlement du Personnel,Les aspects financiers des contrats de travail sont-ils administrés de manière régulière et efficace?
+194,Règlement du Personnel,La paie est-elle préparée conformément aux réglementations appropriées du pays et aux réglementations nationales du personnel du Bureau du Programme?
+195,Règlement du Personnel,Les fiches de paie sont-elles rapprochées chaque mois avec le registre des salaires?
+196,Règlement du Personnel,"Le Directeur Pays / Responsable de Programme surveille-t-il l'enregistrement du temps de travail du personnel local sur une base mensuelle? (pour ceux qui s'inscrivent à Sangama - sur la base des rapports de temps de Sangama; et pour ceux qui tiennent dans Excel ou autres outils, des rapports pertinents)"
+197,Règlement du Personnel,"Le Bureau du Programme dispose-t-il d'un processus rapide pour pourvoir les postes vacants ou en cas d'absence du personnel local, pour éviter une interruption des services du Programme ou une perturbation des opérations de l'organisation?"
+198,Règlement du Personnel,Les règles et procédures pertinentes sont-elles respectées en cas de résiliation des contrats de travail?
+199,Règlement du Personnel,"Si la législation nationale l'exige, un système de fonds de gratification (provision de départ) est-il établi conformément aux manuels du siège et géré par le Bureau du Programme sur la base des réglementations nationales?"
+200,Código de conducta,¿Sigue la Oficina de Programa País las pautas para introducir las medidas apropiadas para manejar los casos de apropiación indebida?
+201,Código de conducta,¿La Oficina del Programa se asegura de que se aborden y eviten los conflictos de intereses?
+202,Código de conducta,¿ La Oficina del Programa se asegura de que las personas afectadas por un conflicto de intereses no estén en el comité de toma de decisiones?
+203,Código de conducta,"¿Existen capacitaciones regulares, esfuerzos de comunicación e intercambios sobre temas anticorrupción para sensibilizar a todos los miembros del personal en el país sobre este tema?"
+204,Código de conducta,"¿Existe una comprensión amplia de las precauciones de seguridad necesarias para proteger a los denunciantes (confidencialidad, no represalias, etc.)?"
+205,Código de conducta,¿Ha introducido la Oficina del Programa las precauciones de seguridad necesarias para proteger a los denunciantes?
+206,Código de conducta,¿Firmaron todos los miembros del personal una declaración por escrito para adherirse al código de conducta de la organización?
+207,Código de conducta,"¿Existen procesos establecidos, que aseguren que se garantice la Protección contra la Explotación, Abuso y Acoso Sexual (PSEAH) de terceros?"
+208,Código de conducta,"¿Existen capacitaciones e intercambios regulares sobre temas de protección (es decir, intimidación, abuso de poder, acoso sexual) para sensibilizar a todos los miembros del personal en el país sobre este tema?"
+209,Código de conducta,"Al evaluar a un futuro socio, ¿se lleva a cabo una evaluación exhaustiva del riesgo del socio (verificación de valor, detección de sanciones y financiación del terrorismo, verificación de reputación)?"
+210,Código de conducta,"En caso de recibir o donar un obsequio de/a un individuo o un tercero, ¿está la Oficina de Programa  Pais al tanto de los posibles riesgos?"
+211,Code de Conduite,Le Bureau du Programme suit-il les directives pour introduire des mesures appropriées pour traiter les cas de détournement?
+212,Code de Conduite,Le Bureau du Programme s'assure-t-il que les conflits d'intérêts sont discutés et évités?
+213,Code de Conduite,Le Bureau du Programme s'assure-t-il que les personnes affectées par un conflit d'intérêts ne font pas partie du comité de prise de décision?
+214,Code de Conduite,"Y a-t-il des formations régulières, des efforts de communication et des échanges sur des thèmes de lutte contre la corruption pour sensibiliser tous les membres du personnel du pays sur ce sujet?"
+215,Code de Conduite,"Existe-t-il une large compréhension des mesures de sécurité / précautions nécessaires pour protéger les dénonciateurs (confidentialité, absence de représailles, etc.)?"
+216,Code de Conduite,Le Bureau du Programme a-t-il mis en place des mesures de sécurité nécessaires pour protéger les dénonciateurs?
+217,Code de Conduite,Tous les membres du personnel ont-ils signé une déclaration écrite d'adhésion au code de conduite de l'Organisation?
+218,Code de Conduite,"Existe-t-il des processus établis qui garantissent que la Protection contre l'Exploitation, les Abus et le Harcèlement Sexuels (PEAHS) de tiers est garantie?"
+219,Code de Conduite,"Y a-t-il des formations et des échanges réguliers sur des sujets de protection (c'est à dire l'intimidation, l'abus de pouvoir, le harcèlement sexuel) pour sensibiliser tous les melbres du personnel du pays sur ce sujet?"
+220,Code de Conduite,"Lors de l'évaluation d'un futur partenaire, une évaluation approfondie des risques du partenaire est-elle effectuée (vérification de la valeur, filtrage contre le financement du terrorisme et sanctions, vérification de la réputation)?"
+221,Code de Conduite,"En cas de réception ou de don de cadeau de / à un individu ou à un tiers, le Bureau du Programme est-il conscient des risques possibles?"
+222,Finanzas - General,¿Se actualiza periódicamente el Manual de Finanzas para integrar cambios importantes?
+223,Finanzas - General, ¿Verifica la Oficina de Programa  País si hay algún conflicto entre el Manual Nacional de Finanzas y las leyes/reglamentos locales?
+224,Finanzas - General, ¿Se tratan adecuadamente los conflictos en el Manual Nacional de Finanzas ?
+225,Finanzas - General, ¿Tiene la Oficina de Programa País  una estructura organizativa que incluye la estructura de los proyectos?
+226,Finanzas - General, ¿Cumple la Oficina de Programa País con los requisitos de presentación de informes de manera oportuna?
+227,Finanzas - General,¿La Oficina de Programa País y los proyectos cumplen adecuadamente las normas tributarias?
+228,Finanzas - General," ¿La Oficina de Programa País brinda capacitación sobre temas relevantes de gestión financiera a los miembros clave del personal a intervalos regulares? (Manual de Finanzas, Manual de Monitoreo Financiero, Controles Internos y otros procedimientos)"
+229,Finanzas - General,"¿Cumple la Oficina de Programa País con las Regulaciones de Firmas emitidas por la Sede  (referirse a Pamoja-OHB) (por ejemplo,en la  firma de contratos con donantes)?"
+230,Procurement,Are fixed suppliers of goods and services re-negotiated and renewed annually following laid down procedures?
+231,Procurement,"Are training courses, workshops, seminars, etc. prepared and carried out following laid down procurement procedures?"
+232,Procurement,Do you implement all stated requirements defined in the Procurement Procedures?
+233,Procurement,Do the national Procurement Procedures for goods and services reflect the main principles and objectives as described in FM HO?
+234,Procurement,Are the national tendering regulations of the Programme Office transparent and followed according to the set rules?
+235,Finances - Général,Le Manuel Financier est-il mis à jour périodiquement pour intégrer les changements importants?
+236,Finances - Général,Le Bureau du Programme vérifie-t-il s'il existe des conflits entre le Manuel Financier National et les lois/réglementations locales?
+237,Finances - Général,Les conflits sont-ils traités de manière adéquate dans le Manuel Financier National?
+238,Finances - Général,Le Bureau du Programme a-t-il une structure organisationnelle incluant la mise en place de projets?
+239,Finances - Général,Le Bureau du Programme se conforme-t-il aux exigences légales en matière de soumission de rapports et de délais?
+240,Finances - Général,Toutes les unités du pays agissent-elles conformément aux réglementations fiscales?
+241,Finances - Général,"Le Bureau du Programme et le Bureau du Projet suivent-ils les mesures requises pour le remboursement de la TVA dans les délais pour les projets exonérés de TVA (UE, Banque Mondiale, DDC, autres) le cas échéant?"
+242,Finances - Général,Les documents financiers sont-ils archivés et  conservés pendant la durée légale prévue? (au minimum  10 ans)
+243,Finances - Général,"Le Bureau du Programme dispense-t-il régulièrement une formation sur des thèmes pertinents de gestion financière aux personnel  clés? (Manuel Financier, Manuel de Suivi Financier, Contrôles Internes et autres procédures)"
+244,Finances - Général,"Le Bureau du Programme respecte-t-il les règles de signature émises par le Siège Social (voir Pamoja-OHB) (exemple, signature des contrats avec les donateurs)"
+245,Control presupuestario,"¿La Oficina de Programa País proporciona los datos, informes/información pertinentes al personal del proyecto para ayudarlos a monitorear el progreso financiero de los respectivos proyectos?"
+246,Control presupuestario,¿El Director de Programa País monitorea  las horas de trabajo para la cartera/proyectos del país?
+247,Control presupuestario,¿El Director de Programa País  monitorea los controles realizados por el Director/Coordinador de Proyecto  sobre el seguimiento presupuestario y las medidas correctivas tomadas?
+248,Control presupuestario, ¿El Director de Programa Paía revisa y analiza el Informe de Margen de Contribución semestralmente?
+249,Control presupuestario,¿El archivo contable Banana cuenta con la última versión aprobada de los presupuestos de los proyectos?
+250,Control presupuestario, ¿El Director/Coordinador de Proyecto realiza el seguimiento del presupuesto de manera mensual?
+251,Control presupuestario,¿El Director de Programa País realiza análisis de desviaciones entre el presupuesto y lo ejecutado realmente y toma medidas correctivas en un plazo determinado?
+252,Contrôle Budgétaire,"Le Bureau du Programme fournit-il les données, rapports / informations pertienents au personnel du projet pour les aider à suivre les progrès financiers des projets respectifs?"
+253,Contrôle Budgétaire,Le logiciel de comptabilité Banana contient-il la dernière version approuvée des budgets du projet?
+254,Contrôle Budgétaire,Le Gestionnaire de Programme effectue-t-il le suivi budgétaire sur une base mensuelle?
+255,Contrôle Budgétaire,Le Directeur Pays surveille-t-il les heures de travail pour le portefeuille / projets Pays?
+256,Contrôle Budgétaire,Le Directeur Pays surveille-t-il les contrôles effectués par le Responsable de Programme sur le suivi budgétaire et les mesures correctives initiées?
+257,Contrôle Budgétaire,Le Directeur Pays examine-t-il et analyse-t-il le rapport sur la marge de contribution sur une base semestrielle?
+258,Contrôle Budgétaire,Effectuez-vous une analyse des écarts entre le budget et les réalisations et prenez-vous des mesures correctives dans un délai déterminé?
+259,Rapport des donateurs,Les rapports financiers addressés au donateur sont-ils préparés conformément aux exigences et conditions spécifiques du donateur?
+260,Rapport des donateurs,Tous les coûts encourus pour le projet sont-ils systématiquement inclus dans le rapport financier addressé au donateur?
+261,Rapport des donateurs,Les frais du siège (le cas échéant) sont-ils systématiquement intégrés dans le rapport financier au donateur pour les mandats locaux ?
+262,Rapport des donateurs,Surveillez-vous le budget du contrat du donateur par rapport aux dépenses réelles à intervalles réguliers?
+263,Rapport des donateurs,"En cas de dépenses prévues dépassant le budget / seuil approuvé par le donateur, obtenez-vous des approbations écrites préalables du donateur?"
+264,Rapport des donateurs,"Surveillez-vous et assurez-vous la réception en temps voulu des fonds du donateur, comme indiqué dans le contrat du donateur?"
+265,Rapport des donateurs,"Dans le cas de contrats de donateurs pour des mandats locaux en devises étrangères, veillez-vous à l'application correcte des taux de change, le cas échéant ?"
+266,Rapport des donateurs,"En cas de contrats avec des devises étrangères, analysez-vous / évaluez-vous la variation de change par rapport au contrat global et son impact sur les finances du Projet?"
+267,Rapport des donateurs,Assurez-vous un audit en temps opportun des projets financés par les donateurs lorsque cela est nécessaire?
+268,Rapport des donateurs,Le suivi des recommandations d'audit est-il systématiquement assuré en temps opportun?
+269,Auditoría,¿La empresa auditora seleccionada para la Auditoría Anual de Grupo es aprobada anualmente por nuestro principal donante COSUDE antes de la firma del contrato de auditoría?
+270,Auditoría, ¿La auditoría nacional anual se realiza en base a los Términos de Referencia  aprobados y de acuerdo con las instrucciones emitidas por la Sede?
+271,Auditoría,La Oficina del Programa hace seguimiento  e implementa sistemáticamente las mejoras requeridas en base a las recomendaciones de auditoría?
+272,Partenariat,La sélection des partenaires est-elle basée sur une diligence raisonnable (évaluation des partenaires)?
+273,Partenariat,Le personnel financier participe-t-il au processus d'évaluation / sélection des partenaires?
+274,Partenariat,Existe-t-il un contrat formel signé entre Helvetas et le Partenaire pour tout partenariat?
+275,Partenariat,Le personnel opérationnel et financier collaborent-t-ils étroitement pour l'examen et l'apporbation des rapports financiers et d'autres informations financières pertinentes reçues des partenaires? Est-ce qu'ils font le suivi dans les délais impartis ?
+276,Partenariat,Les exigences de conformité du partenaire sont-elles systématiquement contrôlées et des mesures sont-elles appliquées en cas de retard / ou de non-conformité?
+277,Partenariat,"Assurez-vous un suivi financier régulier des partenaires? (par exemple, analyse sur la corrélation des rapports narratifs et financiers)?"
+278,Partenariat,Des visites sur le terrain sont-elles effectuées dans les bureaux partenaires et les lieux d'activité à intervalles réguliers?
+279,Partenariat,Les dépenses financées pour le partenaire par Helvetas sont-elles auditées pour les subventions supérieures à 50.000 francs suisses par an?
+280,Partenariat,"Est-il garanti qu'à la fin du contrat avec le partenaire, les rapports opérationnels et financiers finaux sont reçus, comptabilisés et les avances rapprochées / réglées?"
+281,Accounting System,"Are the advances paid to service providers/partner organisations accounted as advances first in the Banana accounting, followed by expenses recognition based on effective expenses reported in their financial statement?"
+282,Accounting System,Is monitoring of all advances conducted in a time-bound manner?
+283,Accounting System,Are all cashboxes and bank accounts reflected in the Banana accounting system?
+284,Accounting System,"Are business trips properly planned, carried out and accounts settled according to internal rules and timelines?"
+285,Accounting System,"Do you follow Head Office regulations on Deposits, Debtors and Write-off of bad Debts?"
+286,Accounting System,Are all accounting and supporting documents stored securely in a safe and structured manner that allow authorized users easy access?
+287,Accounting System,"Are the payroll calculations, reconciliation, control and payout managed systematically and is confidentiality maintained?"
+288,Partnership,Are the Partner selection made based on due diligence (partner assessment)?
+289,Partnership,Do Finance staff participate in the partner assessment / selection process?
+290,Partnership,Are there a formal contract signed between Helvetas and Partner for all partnerships?
+291,Partnership,Do operational and financial staff collaborate closely for review and approval of Financial reports and other finance relevant information received from the partners? monitored in a timely manner?
+292,Partnership,Are the compliance requirements by the Partner monitored systematically and measures applied for instances of delay/or non-compliance?
+293,Partnership,"Do you ensure regular financial monitoring of partners? (for e.g., Variance analysis based on the correlation of narrative and financial reports)?"
+294,Partnership,Are field visits carried out at partner offices and activity locations at regular intervals?
+295,Partnership,"Are the expenditure funded to Partner by Helvetas audited for grants exceeding 50,000 Swiss francs in a year?"
+296,Partnership,"Is it ensured that, at the end of partner contract, the final operational and financial reports are received accounted for and advances reconciled/settled?"
+297,Donor Reports,Are the financial reports to donor prepared in accordance with donor specific requirements and conditions?
+298,Donor Reports,Are all the costs incurred for the project systematically included in the financial report to the donor?
+299,Donor Reports,Are the Head Office costs (where applicable) systematically integrated in the financial report to the donor for local mandates?
+300,Donor Reports,Do you monitor the donor contract budget to the actual expenses at regular intervals?
+301,Donor Reports,"In case of anticipated spending in excess of donor approved budget / threshold, do you obtain prior written approvals from the donor?"
+302,Donor Reports,Do you monitor and ensure timely receipt of funds from the donor as stated in the donor contract?
+303,Donor Reports,"In cases of donor contracts for local mandates in foreign currency, do you ensure correct application of currency exchanges as required?"
+304,Donor Reports,"In case of donor contracts in foreign currency, do you assess/evaluate exchange variation to the overall contract and its impact on the project finances?"
+305,Donor Reports,Do you ensure timely audit of donor funded projects when it is required?
+306,Donor Reports,Are the follow up of audit recommendations systematically ensured in a timely manner?
+307,Système de Comptabilité,"Les avances versées aux prestataires de services / organisations partenaires sont-elles d'abord comptabilisées comme des avances dans le logiciel de comptabilité Banana, suivies de la comptabilisation des dépenses sur la base des dépenses effectives déclarées dans leurs états financiers?"
+308,Système de Comptabilité,Le suivi de toutes les avances tient-il-compte des délais impartis?
+309,Système de Comptabilité,Toutes les caisses et tous les comptes bancaires sont-ils  dans le système comptable Banana?
+310,Système de Comptabilité,"Les voyages d'affaires sont-ils correctement planifiés, effectués, et les comptes réglés conformément aux règles et délais internes?"
+311,Système de Comptabilité,"Respectez-vous les réglementations du Siège Social concernant les dépôts, les débiteurs et l'annulation des débits irrécouvrables?"
+312,Système de Comptabilité,"Tous les documents comptables et justificatifs sont-ils stockés en toute sécurité, de manière sécurisée et structurée, permettant un accès facile aux utilisateurs autorisés?"
+313,Système de Comptabilité,"Les calculs des salaires, le rapprochement, le contrôle et le paiement sont-ils gérés de manière systématique et confidentiels?"
+314,Approvisionnement,Mettez-vous en œuvre toutes les règles énoncées dans les procédures de passation des marchés?
+315,Approvisionnement,Les procédures sur les appels d'offres nationales  du Bureau du Programme sont-elles transparentes et suivies conformément aux règles établies?
+316,Approvisionnement,Les procédures nationales de passation des marchés de biens et services reflètent-elles fidèlement les grands principes et objectifs tels que décrits dans les manuels du Siège
+317,Approvisionnement,Les fournisseurs fixes de biens et services sont-ils renégociés et renouvelés annuellement selon les procédures établies?
+318,Approvisionnement,"Les cours de formation, ateliers, séminaires, etc. sont-ils préparés et organisés conformément aux procédures de passation des marchés établies?"
+319,Adquisiciones,¿Las normas nacionales de licitación de la Oficina de Programa País son transparentes y se siguen de acuerdo con las reglas establecidas?
+320,Adquisiciones,¿Los procedimientos nacionales de contratación de bienes y servicios reflejan los principales principios y objetivos descritos en el Manual Financiero de la sede?
+321,Sistema de contabilidad,"¿Los anticipos pagados a los proveedores de servicios/organizaciones asociadas se contabilizan primero como anticipos en la contabilidad de Banana, seguidos del reconocimiento de gastos en función de los gastos efectivos reportados en su estado financiero?"
+322,Sistema de contabilidad, ¿Se realiza el seguimiento de todos los anticipos con un límite de tiempo?
+323,Sistema de contabilidad,¿Están todas las cajas y cuentas bancarias reflejadas en el sistema contable Banana?
+324,Sistema de contabilidad, ¿Se planifican y realizan los viajes por trabajo correctamente y las cuentas se liquidan de acuerdo con las normas y los plazos internos?
+325,Sistema de contabilidad," ¿Sigue usted la normativa de la Sede sobre Depósitos, Deudores y Castigo (cancelación/regularización)  de Cuentas Incobrables?"
+326,Sistema de contabilidad,¿Se almacenan de manera segura y estructurada todos los documentos contables y de respaldo  para permitir el fácil acceso a los usuarios autorizados?
+327,Sistema de contabilidad,"¿Se gestionan sistemáticamente los cálculos de la planilla (nómina) de sueldos, la conciliación, el control y el pago y se mantiene la confidencialidad?"
+328,Adquisiciones,¿Implementa usted todos los requisitos establecidos definidos en los Procedimientos de Adquisición?
+329,Adquisiciones,¿Se renegocian y renuevan anualmente los proveedores fijos de bienes y servicios siguiendo los procedimientos establecidos?
+330,Adquisiciones,"¿Se preparan y llevan a cabo cursos de formación, talleres, seminarios, etc. siguiendo los procedimientos de contratación establecidos?"
+331,Partenariado,¿Se realiza la selección de socios con base en la diligencia debida (evaluación de socios)?
+332,Partenariado,¿Participa el personal de Finanzas en el proceso de evaluación/selección de socios?
+333,Partenariado, ¿Existe un contrato formal firmado entre Helvetas y el Socio para todos los partenariados?
+334,Partenariado,¿El personal operativo y financiero colabora estrechamente para la revisión y aprobación de los informes financieros y otra información financiera relevante recibida de los socios? ¿Se monitorea de manera oportuna?
+335,Partenariado,¿Se controlan sistemáticamente los requisitos de cumplimiento por parte del socio y se aplican medidas para los casos de retraso o incumplimiento?
+336,Partenariado,"¿Se garantiza un seguimiento financiero regular de los socios? (por ejemplo, análisis de varianza basado en la correlación de informes narrativos y financieros)?"
+337,Partenariado,¿Se realizan visitas de campo en las oficinas de los socios y los lugares de actividad a intervalos regulares?
+338,Partenariado,¿Se auditan los gastos financiados al socio por parte de Helvetas para contribucines  superiores a 50.000 francos suizos en un año?
+339,Partenariado,"¿Se garantiza que, al final del contrato con el socio, se reciban los informes operativos y financieros finales y se reconcilien/liquiden los anticipos?"
+340,Informes de donantes,¿Los informes financieros se preparan para el donante de acuerdo con los requisitos y condiciones específicos del donante?
+341,Informes de donantes,¿En el informe financiero al donante se incluyen sistemáticamente todos los costos pagados para el proyecto?
+342,Informes de donantes,¿Se integran sistemáticamente los costes de la sede central (si procede) en el informe financiero al donante para los mandatos locales?
+343,Informes de donantes,¿Supervisa usted el presupuesto del contrato del donante hasta los gastos reales a intervalos regulares?
+344,Informes de donantes,"En caso de gastos anticipados que excedan el presupuesto o límite  aprobado por el donante, ¿obtiene usted aprobaciones previas por escrito del donante?"
+345,Informes de donantes,¿Supervisa y asegura la recepción oportuna de los fondos del donante como se indica en el contrato del donante?
+346,Informes de donantes,"En los casos de contratos de donantes para mandatos locales en moneda extranjera, ¿se garantiza la correcta aplicación de los cambios de divisa según sea necesario?"
+347,Informes de donantes,"En el caso de contratos de donantes en moneda extranjera, ¿evalúa la variación cambiaria del contrato general y su impacto en las finanzas del proyecto?"
+348,Informes de donantes,¿Garantiza la auditoría oportuna de los proyectos financiados por donantes cuando es necesario?
+349,Informes de donantes,¿Se asegura sistemáticamente y de manera oportuna el seguimiento de las recomendaciones de auditoría?
+350,Réglementation des TI,Tous les services et infrastructures informatiques utilisés dans le pays sont-ils conformes aux normes minimales en matière de technologies de l'information ?
+351,Normativa informática,¿Cumplen todos los servicios de TI y la infraestructura de TI utilizados en el país las normas mínimas de TI?
+352,IT Regulations,Are all IT services and IT infrastructure used in the country compliant with the IT minimum standards?
+353,Finanzas - General,¿Se lleva a cabo y se mantiene el almacenamiento y archivo de los documentos financieros durante el tiempo estipulado? (Mínimo de 10 años de almacenamiento necesario)
+354,Finanzas - General,"¿Siguen la Oficina de Programa País y  los Proyectos las medidas requeridas para el reembolso del IVA (Impuesto al Valor Agregado) dentro del plazo prescrito para proyectos exentos de IVA (UE, Banco Mundial, COSUDE, otros) según corresponda?"
+355,Finance - General,Does the Programme Office check if there are any conflicts between the National Finance Manual and local laws/regulations? 
+356,Finance - General,Are conflicts adequately treated in the National Finance Manual? 
+357,Finance - General,Does the Programme Office have an organizational structure including the setup of projects? 
+358,Finance - General,Does the Programme Office comply with the statutory reporting requirements in a timely manner? 
+359,Finance - General,Do all units in the country act in compliance with tax regulations? 
+360,Finance - General,"Does the Programme Office provide training on relevant finance management topics to key staff members at regular intervals? (Finance Manual, Finance Monitoring Manual, Internal Controls and other procedures) "
+361,Budgetary Control,Does the CD monitor the controls performed by the PM over the budget monitoring and corrective measures initiated? 
+362,Budgetary Control,Does the CD review and analyse the Contribution Margin Report on a Semester basis? 
+363,Internal Controls,Is the “Delegated Authority Document” reviewed/updated annually to ensure its relevance/validity? 
+364,Internal Controls,"Does the Programme Office send written confirmation for receipt of funds to Head Office (with details of funds received, exchange rate etc,.) when funds are credited in the Programme Office bank account? "
+365,Audit,Is the annual national audit performed based on approved Group Audit ToR and as per instructions issued by the Head office? 
+366,Personnel Regulations,Does the Programme Office ensure that their employees discharge their duties according to their employment contracts? 
+367,Personnel Regulations,Is the staff performance checked regularly with an annual appraisal and are the necessary development measures agreed upon? 

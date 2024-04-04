@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <style>
+    /* Add your custom styles here */
+
+    /* Style for the dropdown button */
+    .dropdown-btn {
+      background-color: #ffffff;
+      color: #0e0a0a;
+      padding: 10px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-bottom: 10px;
+    }
+
+    /* Style for the dropdown content */
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+      z-index: 1;
+    }
+
+    /* Style for the dropdown items */
+    .dropdown-item {
+      padding: 12px;
+      display: block;
+      text-decoration: none;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+<div class="col-md-4 col-xl-3">
+  <div class="card bg-c-pink order-card">
+    <div class="card-block">
+      <h6 class="m-b-20">Orders Received</h6>
+      <h2 class="text-right">
+        <i class="fa fa-credit-card f-left"></i>
+        <span>486</span>
+      </h2>
+      <p class="m-b-0">
+        Completed Orders
+        <span class="f-right">351</span>
+      </p>
+      <!-- Add the dropdown button and content -->
+      <p class="dropdown-btn" onclick="toggleDropdown()">Action</p>
+      <div class="dropdown-content" id="myDropdown">
+        <a href="#" class="dropdown-item" onclick="handleDropdownOption('Option 1')">Option 1</a>
+        <a href="#" class="dropdown-item" onclick="handleDropdownOption('Option 2')">Option 2</a>
+        <a href="#" class="dropdown-item" onclick="handleDropdownOption('Option 3')">Option 3</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Bootstrap JS and jQuery (required for Bootstrap) -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<script>
+  function toggleDropdown() {
+    var dropdown = document.getElementById("myDropdown");
+    dropdown.style.display = (dropdown.style.display === "block") ? "none" : "block";
+  }
+
+  function handleDropdownOption(option) {
+    alert("Dropdown option clicked: " + option);
+  }
+  // Close the dropdown if the user clicks outside of it
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropdown-btn')) {
+      var dropdowns = document.getElementsByClassName("dropdown-content");
+      for (var i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.style.display === "block") {
+          openDropdown.style.display = "none";
+        }
+      }
+    }
+  }
+</script>
+
+</body>
+</html>

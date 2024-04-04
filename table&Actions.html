@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<body>
+    <style>
+        body
+        {
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
+<section><div id="myPlot" style="width:100%;"></div></section>
+
+
+<script>
+const xArray = ["NewTasks", "Pending Tasks", "Completed Tasks"];
+const yArray = [55, 49, 90];
+
+const layout = {
+    title: "",
+    showlegend: false, // Hide the legend
+    config: {
+        displayModeBar: false // hide the toolbar
+    }
+};
+
+const data = [{ labels: xArray, values: yArray, type: "pie" }];
+
+Plotly.newPlot("myPlot", data, layout);
+</script>
+
+</body>
+</html>
